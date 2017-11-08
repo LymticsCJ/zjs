@@ -1,0 +1,15 @@
+.settings
+.svn
+/bos_itheimaUtils/.classpath
+/bos_itheimaUtils/.project
+target
+/bos_management/bos_management_dao/.classpath
+/bos_management/bos_management_dao/.project
+/bos_management/bos_management_domain/.classpath
+/bos_management/bos_management_domain/.project
+/bos_management/bos_management_service/.classpath
+/bos_management/bos_management_service/.project
+/bos_management/bos_management_web/.classpath
+/bos_management/bos_management_web/.project
+/common_parent/.project
+/.project
